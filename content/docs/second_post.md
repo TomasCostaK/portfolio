@@ -1,27 +1,21 @@
 ---
-title: "Second post"
+title: "Why ML is an ART: Detailed ML Guide"
 date: 2024-07-16T11:30:00+00:00
 # weight: 1
-tags: ["first"]
-author: "TomasCostaK"
-showToc: true
+tags: ["second"]
+author: "Tomás Costa"
+
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "This was just testing out the date feature"
-canonicalURL: "https://canonical.url/to/page"
+description: "This is just another post"
 disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
+disableShare: true
+disableHLJS: true
 hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
+
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
@@ -29,10 +23,8 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/https://github.com/TomasCostaK/portfolio/content"
+    URL: "https://github.com/TomasCostaK/portfolio/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-
-
-There is actually no news for you guys. Sorry
+Still no news, sorry about that.

@@ -15,6 +15,7 @@ disableHLJS: true # to disable highlightjs
 disableShare: true
 disableHLJS: true
 hideSummary: false
+
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
@@ -22,7 +23,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/https://github.com/TomasCostaK/portfolio/content"
+    URL: "https://github.com/TomasCostaK/portfolio/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---

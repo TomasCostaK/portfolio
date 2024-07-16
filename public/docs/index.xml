@@ -9,11 +9,11 @@
     <lastBuildDate>Tue, 16 Jul 2024 11:30:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second post</title>
+      <title>Why ML is an ART: Detailed ML Guide</title>
       <link>http://localhost:1313/docs/second_post/</link>
       <pubDate>Tue, 16 Jul 2024 11:30:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/second_post/</guid>
-      <description>This was just testing out the date feature</description>
+      <description>This is just another post</description>
     </item>
     <item>
       <title>My First Post</title>

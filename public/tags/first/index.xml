@@ -6,15 +6,8 @@
     <description>Recent content in First on TomasCostaK Portfolio</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jul 2024 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 11:30:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/first/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Second post</title>
-      <link>http://localhost:1313/docs/second_post/</link>
-      <pubDate>Tue, 16 Jul 2024 11:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/second_post/</guid>
-      <description>This was just testing out the date feature</description>
-    </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/docs/first_post/</link>
