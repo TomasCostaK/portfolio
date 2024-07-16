@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tomascosta.github.io/portfolio/sitemap.xml
