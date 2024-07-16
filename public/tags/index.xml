@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on TomasCostaK Portfolio</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/portfolio/tags/</link>
     <description>Recent content in Tags on TomasCostaK Portfolio</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Jul 2024 11:30:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second</title>
-      <link>http://localhost:1313/tags/second/</link>
+      <link>http://localhost:1313/portfolio/tags/second/</link>
       <pubDate>Tue, 16 Jul 2024 11:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/second/</guid>
+      <guid>http://localhost:1313/portfolio/tags/second/</guid>
       <description></description>
     </item>
     <item>
       <title>First</title>
-      <link>http://localhost:1313/tags/first/</link>
+      <link>http://localhost:1313/portfolio/tags/first/</link>
       <pubDate>Mon, 15 Jul 2024 11:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/first/</guid>
+      <guid>http://localhost:1313/portfolio/tags/first/</guid>
       <description></description>
     </item>
   </channel>
