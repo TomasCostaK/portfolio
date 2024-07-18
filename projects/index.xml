@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>TomasCostaK</title>
-    <link>https://tomascosta.github.io/portfolio/</link>
-    <description>Recent content on TomasCostaK</description>
+    <title>Projects on TomasCostaK</title>
+    <link>https://tomascosta.github.io/portfolio/projects/</link>
+    <description>Recent content in Projects on TomasCostaK</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Jul 2024 11:30:00 +0000</lastBuildDate>
-    <atom:link href="https://tomascosta.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomascosta.github.io/portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why ML is an ART: Detailed ML Guide</title>
       <link>https://tomascosta.github.io/portfolio/projects/second_post/</link>
       <pubDate>Tue, 16 Jul 2024 11:30:00 +0000</pubDate>
       <guid>https://tomascosta.github.io/portfolio/projects/second_post/</guid>
       <description>THIS IS CHANGING</description>
-    </item>
-    <item>
-      <title>Why PyNeon is the best tool you can use in Tokyo</title>
-      <link>https://tomascosta.github.io/portfolio/blogs/first_post/</link>
-      <pubDate>Mon, 15 Jul 2024 11:30:00 +0000</pubDate>
-      <guid>https://tomascosta.github.io/portfolio/blogs/first_post/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
   </channel>
 </rss>
