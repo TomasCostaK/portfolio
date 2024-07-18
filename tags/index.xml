@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on TomasCostaK</title>
-    <link>https://tomascosta.github.io/portfolio/tags/</link>
+    <link>https://tomascostak.github.io/portfolio/tags/</link>
     <description>Recent content in Tags on TomasCostaK</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Jul 2024 11:30:00 +0000</lastBuildDate>
-    <atom:link href="https://tomascosta.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomascostak.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Science</title>
-      <link>https://tomascosta.github.io/portfolio/tags/data-science/</link>
+      <link>https://tomascostak.github.io/portfolio/tags/data-science/</link>
       <pubDate>Tue, 16 Jul 2024 11:30:00 +0000</pubDate>
-      <guid>https://tomascosta.github.io/portfolio/tags/data-science/</guid>
+      <guid>https://tomascostak.github.io/portfolio/tags/data-science/</guid>
       <description></description>
     </item>
     <item>
       <title>ML</title>
-      <link>https://tomascosta.github.io/portfolio/tags/ml/</link>
+      <link>https://tomascostak.github.io/portfolio/tags/ml/</link>
       <pubDate>Tue, 16 Jul 2024 11:30:00 +0000</pubDate>
-      <guid>https://tomascosta.github.io/portfolio/tags/ml/</guid>
+      <guid>https://tomascostak.github.io/portfolio/tags/ml/</guid>
       <description></description>
     </item>
   </channel>
