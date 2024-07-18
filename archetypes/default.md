@@ -1,9 +1,9 @@
 ---
-title: "My Post"
-date: 2024-07-15T11:30:00+00:00
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
 # weight: 1
 tags: ["first"]
-author: "Tomás Costa"
+author: "TomasCostaK"
 
 showToc: false
 TocOpen: false
@@ -17,11 +17,9 @@ disableHLJS: true
 hideSummary: false
 
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+  image: "covers/cover1.png"
+  relative: true
+    
 editPost:
     URL: "https://github.com/TomasCostaK/portfolio/blob/main/content"
     Text: "Suggest Changes" # edit text

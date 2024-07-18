@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>TomasCostaK</title>
-    <link>http://localhost:1313/portfolio/</link>
-    <description>Recent content on TomasCostaK</description>
+    <title>Data Science on TomasCostaK</title>
+    <link>http://localhost:1313/portfolio/tags/data-science/</link>
+    <description>Recent content in Data Science on TomasCostaK</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Jul 2024 11:30:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why ML is an ART: Detailed ML Guide</title>
       <link>http://localhost:1313/portfolio/projects/second_post/</link>
@@ -21,16 +21,6 @@
       <pubDate>Mon, 15 Jul 2024 11:30:00 +0000</pubDate>
       <guid>http://localhost:1313/portfolio/blogs/first_post/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/portfolio/about/</link>
-      <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
-      <guid>http://localhost:1313/portfolio/about/</guid>
-      <description>In my daytime, I work as a Developer Advocate at a US Tech company.
-At night, I&amp;rsquo;m a content creator developing tutorials in data science for the following platforms:
-📺 YouTube: Data Professor, Coding Professor 📝 Medium Blogs. 💻 GitHub In my previous role, I was an Associate Professor of Bioinformatics carrying out research in computational drug discovery:
-Google Scholar ORCID SCOPUS ResearchGate GitHub: chaninn, chaninlab You can also connect with me at the following social platforms:</description>
     </item>
   </channel>
 </rss>

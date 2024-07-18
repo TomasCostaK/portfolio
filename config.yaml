@@ -1,6 +1,6 @@
 baseURL: 'https://tomascosta.github.io/portfolio'
 languageCode: 'en-us'
-title: TomasCostaK Portfolio
+title: TomasCostaK
 theme: PaperMod
 paginate: 5
 
@@ -16,17 +16,17 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: TomasCostaK Portfolio
-  description: "Portfolio for TomasCostaK"
-  keywords: [Blog, Portfolio, PaperMod]
+  description: Hi, my name is **Tomás** and this is my porfolio and blog. Below you can find some of the work I have produced as well as some of my opinions and investigations on mostly **ML topics**.
+  keywords: [Blog, Portfolio, PaperMod, Data Science, ML]
   author: TomasCostaK
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-
   ShowReadingTime: true
-  ShowCodeCopyButtons: true
-  ShowWordCount: true
-  UseHugoToc: false
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
@@ -35,33 +35,31 @@ params:
   showtoc: false
   tocopen: false
 
-  assets:
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
-
-  label:
-    text: "TomasCostaK"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
-
-  # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog/portfolio
-
+params:
+  profileMode:
+    enabled: true
+    title: Greetings, earthlings! 🛸 # optional default will be site title
+    subtitle: Hi, my name is **Tomás** and this is my porfolio and blog. Below you can find some of the work I have produced on **Data** and **ML topics**.
+    imageUrl: https://avatars.githubusercontent.com/u/24943695?v=4 # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Blogs
+        url: blogs
+      - name: Projects
+        url: projects
+        
   socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/tomascostax/"
     - name: github
       url: "https://github.com/TomasCostaK"
+    
 
   cover:
     hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
   editPost:
     URL: "https://github.com/TomasCostaK/portfolio/content"
@@ -70,21 +68,15 @@ params:
 
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-pygmentsUseClasses: true
-markup:
-  highlight:
-    noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 3
+    - identifier: blog
+      name: Blog
+      url: /blogs/
+      weight: 1
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 2
