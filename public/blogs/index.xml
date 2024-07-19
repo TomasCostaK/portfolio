@@ -9,11 +9,11 @@
     <lastBuildDate>Mon, 15 Jul 2024 11:30:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/portfolio/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why PyNeon is the best tool you can use in Tokyo</title>
-      <link>http://localhost:1313/portfolio/blogs/first_post/</link>
+      <title>Pandas 2.0 - How to make your DataFrame manipulations super fast!</title>
+      <link>http://localhost:1313/portfolio/blogs/pyarrow/</link>
       <pubDate>Mon, 15 Jul 2024 11:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/blogs/first_post/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      <guid>http://localhost:1313/portfolio/blogs/pyarrow/</guid>
+      <description>How Panda&amp;#39;s new update will boost your Data transformations as a Data Practitioner</description>
     </item>
   </channel>
 </rss>

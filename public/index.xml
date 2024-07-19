@@ -16,21 +16,11 @@
       <description>THIS IS CHANGING</description>
     </item>
     <item>
-      <title>Why PyNeon is the best tool you can use in Tokyo</title>
-      <link>http://localhost:1313/portfolio/blogs/first_post/</link>
+      <title>Pandas 2.0 - How to make your DataFrame manipulations super fast!</title>
+      <link>http://localhost:1313/portfolio/blogs/pyarrow/</link>
       <pubDate>Mon, 15 Jul 2024 11:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/blogs/first_post/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/portfolio/about/</link>
-      <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
-      <guid>http://localhost:1313/portfolio/about/</guid>
-      <description>In my daytime, I work as a Developer Advocate at a US Tech company.
-At night, I&amp;rsquo;m a content creator developing tutorials in data science for the following platforms:
-📺 YouTube: Data Professor, Coding Professor 📝 Medium Blogs. 💻 GitHub In my previous role, I was an Associate Professor of Bioinformatics carrying out research in computational drug discovery:
-Google Scholar ORCID SCOPUS ResearchGate GitHub: chaninn, chaninlab You can also connect with me at the following social platforms:</description>
+      <guid>http://localhost:1313/portfolio/blogs/pyarrow/</guid>
+      <description>How Panda&amp;#39;s new update will boost your Data transformations as a Data Practitioner</description>
     </item>
   </channel>
 </rss>

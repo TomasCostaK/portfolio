@@ -1,29 +1,13 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-# weight: 1
-tags: ["first"]
+title: "Why PyNeon is the best tool you can use in Tokyo"
+date: 2024-07-15T11:30:00+00:00
+tags: ["ML", "Data Science"]
 author: "TomasCostaK"
-
-showToc: false
-TocOpen: false
-draft: false
-hidemeta: false
-comments: false
-description: "This is a post"
-disableHLJS: true # to disable highlightjs
-disableShare: true
-disableHLJS: true
-hideSummary: false
-
+description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 cover:
-  image: "covers/cover1.png"
-  relative: true
-    
-editPost:
-    URL: "https://github.com/TomasCostaK/portfolio/blob/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    image: "covers/neon.jpg"
+    relative: true
+showtoc: true
 ---
 This is a post, and the following is Python code:
 

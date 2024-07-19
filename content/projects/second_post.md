@@ -2,12 +2,11 @@
 title: "Why ML is an ART: Detailed ML Guide"
 date: 2024-07-16T11:30:00+00:00
 tags: ["ML", "Data Science"]
-author: "Tomás Costa"
+author: "TomasCostaK"
 description: "THIS IS CHANGING"
 cover:
     image: "images/burger.png"
     relative: true
-    imageHeight: 120 # custom size
 showtoc: true
 ---
 

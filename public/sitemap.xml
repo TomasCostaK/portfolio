@@ -23,11 +23,8 @@
     <loc>http://localhost:1313/portfolio/blogs/</loc>
     <lastmod>2024-07-15T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/blogs/first_post/</loc>
+    <loc>http://localhost:1313/portfolio/blogs/pyarrow/</loc>
     <lastmod>2024-07-15T11:30:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/about/</loc>
-    <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/categories/</loc>
   </url>
