@@ -23,10 +23,10 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
@@ -38,7 +38,7 @@ params:
 params:
   profileMode:
     enabled: true
-    title: Greetings, earthlings! 🛸 # optional default will be site title
+    title: Greetings, reader! 👨‍🔬
     subtitle: Hi, my name is **Tomás** and this is my porfolio and blog. Below you can find some of the work I have produced on **Data** and **ML topics**.
     imageUrl: https://avatars.githubusercontent.com/u/24943695?v=4 # optional
     imageWidth: 120 # custom size
@@ -55,16 +55,10 @@ params:
     - name: github
       url: "https://github.com/TomasCostaK"
     
-
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
-
-  editPost:
-    URL: "https://github.com/TomasCostaK/portfolio/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 
 menu:
   main:
