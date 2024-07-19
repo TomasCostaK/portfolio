@@ -6,14 +6,28 @@
     <description>Recent content in Data Science on TomasCostaK</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jul 2024 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 00:20:41 +0100</lastBuildDate>
     <atom:link href="https://tomascostak.github.io/portfolio/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why ML is an ART: Detailed ML Guide</title>
-      <link>https://tomascostak.github.io/portfolio/projects/second_post/</link>
-      <pubDate>Tue, 16 Jul 2024 11:30:00 +0000</pubDate>
-      <guid>https://tomascostak.github.io/portfolio/projects/second_post/</guid>
-      <description>THIS IS CHANGING</description>
+      <title>MyLife - Personal Lifestyle Monitoring System (University Project)</title>
+      <link>https://tomascostak.github.io/portfolio/projects/mylife/</link>
+      <pubDate>Sat, 20 Jul 2024 00:20:41 +0100</pubDate>
+      <guid>https://tomascostak.github.io/portfolio/projects/mylife/</guid>
+      <description>MyLife, the Personal Lifestyle Monitoring System was the final project for the bachelor&amp;#39;s degree in Computer Science.</description>
+    </item>
+    <item>
+      <title>Developing a self-balancing motorcycle in five days</title>
+      <link>https://tomascostak.github.io/portfolio/projects/self_balancing_bike/</link>
+      <pubDate>Fri, 19 Jul 2024 23:36:53 +0100</pubDate>
+      <guid>https://tomascostak.github.io/portfolio/projects/self_balancing_bike/</guid>
+      <description>How myself and three other colleagues developed a self-balancing bike, using a mix of hardware and software.</description>
+    </item>
+    <item>
+      <title>GTA V Autonomous Driving - Deep Learning Classification using 3D Point Clouds (University Project)</title>
+      <link>https://tomascostak.github.io/portfolio/projects/gta_autonomous/</link>
+      <pubDate>Fri, 19 Jul 2024 23:23:24 +0100</pubDate>
+      <guid>https://tomascostak.github.io/portfolio/projects/gta_autonomous/</guid>
+      <description>Deep Learning Classification using 3D Point Clouds</description>
     </item>
     <item>
       <title>Pandas 2.0 - How to make your DataFrame manipulations super fast!</title>

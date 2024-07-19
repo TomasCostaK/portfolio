@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docker on TomasCostaK</title>
+    <link>https://tomascostak.github.io/portfolio/tags/docker/</link>
+    <description>Recent content in Docker on TomasCostaK</description>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jul 2024 00:07:37 +0100</lastBuildDate>
+    <atom:link href="https://tomascostak.github.io/portfolio/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Renti - A Renting Marketplace (University Project)</title>
+      <link>https://tomascostak.github.io/portfolio/projects/renti/</link>
+      <pubDate>Sat, 20 Jul 2024 00:07:37 +0100</pubDate>
+      <guid>https://tomascostak.github.io/portfolio/projects/renti/</guid>
+      <description>Renti was a product developed during university, where I got to learn quite a lot about Frontend (React) and Docker</description>
+    </item>
+  </channel>
+</rss>
