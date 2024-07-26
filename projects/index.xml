@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on TomasCostaK</title>
-    <link>https://tomascostak.github.io/portfolio/projects/</link>
+    <link>https://tomascostak.github.io/projects/</link>
     <description>Recent content in Projects on TomasCostaK</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jul 2024 00:20:41 +0100</lastBuildDate>
-    <atom:link href="https://tomascostak.github.io/portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomascostak.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MyLife - Personal Lifestyle Monitoring System (University Project)</title>
-      <link>https://tomascostak.github.io/portfolio/projects/mylife/</link>
+      <link>https://tomascostak.github.io/projects/mylife/</link>
       <pubDate>Sat, 20 Jul 2024 00:20:41 +0100</pubDate>
-      <guid>https://tomascostak.github.io/portfolio/projects/mylife/</guid>
+      <guid>https://tomascostak.github.io/projects/mylife/</guid>
       <description>MyLife, the Personal Lifestyle Monitoring System was the final project for the bachelor&amp;#39;s degree in Computer Science.</description>
     </item>
     <item>
       <title>Renti - A Renting Marketplace (University Project)</title>
-      <link>https://tomascostak.github.io/portfolio/projects/renti/</link>
+      <link>https://tomascostak.github.io/projects/renti/</link>
       <pubDate>Sat, 20 Jul 2024 00:07:37 +0100</pubDate>
-      <guid>https://tomascostak.github.io/portfolio/projects/renti/</guid>
+      <guid>https://tomascostak.github.io/projects/renti/</guid>
       <description>Renti was a product developed during university, where I got to learn quite a lot about Frontend (React) and Docker</description>
     </item>
     <item>
       <title>Developing a self-balancing motorcycle in five days</title>
-      <link>https://tomascostak.github.io/portfolio/projects/self_balancing_bike/</link>
+      <link>https://tomascostak.github.io/projects/self_balancing_bike/</link>
       <pubDate>Fri, 19 Jul 2024 23:36:53 +0100</pubDate>
-      <guid>https://tomascostak.github.io/portfolio/projects/self_balancing_bike/</guid>
+      <guid>https://tomascostak.github.io/projects/self_balancing_bike/</guid>
       <description>How myself and three other colleagues developed a self-balancing bike, using a mix of hardware and software.</description>
     </item>
     <item>
       <title>GTA V Autonomous Driving - Deep Learning Classification using 3D Point Clouds (University Project)</title>
-      <link>https://tomascostak.github.io/portfolio/projects/gta_autonomous/</link>
+      <link>https://tomascostak.github.io/projects/gta_autonomous/</link>
       <pubDate>Fri, 19 Jul 2024 23:23:24 +0100</pubDate>
-      <guid>https://tomascostak.github.io/portfolio/projects/gta_autonomous/</guid>
+      <guid>https://tomascostak.github.io/projects/gta_autonomous/</guid>
       <description>Deep Learning Classification using 3D Point Clouds</description>
     </item>
     <item>
       <title>TrafficJammer, an app to closely monitor a city&#39;s traffic (University Project)</title>
-      <link>https://tomascostak.github.io/portfolio/projects/traffic_jammer/</link>
+      <link>https://tomascostak.github.io/projects/traffic_jammer/</link>
       <pubDate>Fri, 19 Jul 2024 22:23:24 +0100</pubDate>
-      <guid>https://tomascostak.github.io/portfolio/projects/traffic_jammer/</guid>
+      <guid>https://tomascostak.github.io/projects/traffic_jammer/</guid>
       <description>TrafficJammer, an app to closely monitor a city&amp;#39;s traffic</description>
     </item>
   </channel>

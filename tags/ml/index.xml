@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ML on TomasCostaK</title>
-    <link>https://tomascostak.github.io/portfolio/tags/ml/</link>
+    <link>https://tomascostak.github.io/tags/ml/</link>
     <description>Recent content in ML on TomasCostaK</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jul 2024 00:20:41 +0100</lastBuildDate>
-    <atom:link href="https://tomascostak.github.io/portfolio/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomascostak.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MyLife - Personal Lifestyle Monitoring System (University Project)</title>
-      <link>https://tomascostak.github.io/portfolio/projects/mylife/</link>
+      <link>https://tomascostak.github.io/projects/mylife/</link>
       <pubDate>Sat, 20 Jul 2024 00:20:41 +0100</pubDate>
-      <guid>https://tomascostak.github.io/portfolio/projects/mylife/</guid>
+      <guid>https://tomascostak.github.io/projects/mylife/</guid>
       <description>MyLife, the Personal Lifestyle Monitoring System was the final project for the bachelor&amp;#39;s degree in Computer Science.</description>
     </item>
     <item>
       <title>Developing a self-balancing motorcycle in five days</title>
-      <link>https://tomascostak.github.io/portfolio/projects/self_balancing_bike/</link>
+      <link>https://tomascostak.github.io/projects/self_balancing_bike/</link>
       <pubDate>Fri, 19 Jul 2024 23:36:53 +0100</pubDate>
-      <guid>https://tomascostak.github.io/portfolio/projects/self_balancing_bike/</guid>
+      <guid>https://tomascostak.github.io/projects/self_balancing_bike/</guid>
       <description>How myself and three other colleagues developed a self-balancing bike, using a mix of hardware and software.</description>
     </item>
     <item>
       <title>GTA V Autonomous Driving - Deep Learning Classification using 3D Point Clouds (University Project)</title>
-      <link>https://tomascostak.github.io/portfolio/projects/gta_autonomous/</link>
+      <link>https://tomascostak.github.io/projects/gta_autonomous/</link>
       <pubDate>Fri, 19 Jul 2024 23:23:24 +0100</pubDate>
-      <guid>https://tomascostak.github.io/portfolio/projects/gta_autonomous/</guid>
+      <guid>https://tomascostak.github.io/projects/gta_autonomous/</guid>
       <description>Deep Learning Classification using 3D Point Clouds</description>
     </item>
     <item>
       <title>Pandas 2.0 - How to make your DataFrame manipulations super fast!</title>
-      <link>https://tomascostak.github.io/portfolio/blogs/pyarrow/</link>
+      <link>https://tomascostak.github.io/blogs/pyarrow/</link>
       <pubDate>Mon, 15 Jul 2024 11:30:00 +0000</pubDate>
-      <guid>https://tomascostak.github.io/portfolio/blogs/pyarrow/</guid>
+      <guid>https://tomascostak.github.io/blogs/pyarrow/</guid>
       <description>How Panda&amp;#39;s new update will boost your Data transformations as a Data Practitioner</description>
     </item>
   </channel>
